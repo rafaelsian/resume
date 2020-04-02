@@ -1,6 +1,6 @@
 # Visit my online resume!
 
-[![Resume Preview](https://rafaelsian.engineer/img/Mockup.png)](https://rafaelsian.engineer/)
+[![Resume Preview](https://rafaelsian.engineer/img/mockup.png)](https://rafaelsian.engineer/)
 
 
 # [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
